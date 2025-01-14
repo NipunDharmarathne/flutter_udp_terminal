@@ -9,3 +9,10 @@ The UDP Terminal app enables users to send and receive UDP packets over a networ
 - Customizable Port Configuration
 - UTF8 Encoding and Decoding
 - Real-Time Connection Status
+
+## Screenshots
+<div style="display: flex; justify-content: space-around;">
+  <img src="docs/images/1.png" width="500" />
+  <img src="docs/images/2.png" width="500" />
+  <img src="docs/images/3.png" width="500" />
+</div>
