@@ -15,7 +15,8 @@ Working on this app allowed me to combine my interest in networking with my pass
 
 ## 📂 Check It Out
 🔗 GitHub Repository: https://github.com/NipunDharmarathne/flutter_udp_terminal  
-📱 APK Release: https://github.com/NipunDharmarathne/flutter_udp_terminal/releases/download/v0.1.0/app-release.apk
+📱 APK Release: https://github.com/NipunDharmarathne/flutter_udp_terminal/releases/download/v0.1.0/app-release.apk  
+
 The app is open-source, and the code is available for anyone who’d like to explore, enhance or develop it further. I'd love to hear your thoughts, suggestions or feedback! If you find this app useful or think it could help someone you know, feel free to share it or drop a comment below. Let’s connect!
 
 ## 📸 Screenshots
