@@ -25,3 +25,10 @@ The app is open-source, and the code is available for anyone who’d like to exp
   <img src="docs/images/2.png" width="500" />
   <img src="docs/images/3.png" width="500" />
 </div>
+
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🚀 Contributing
+Feel free to contribute by adding new features!
